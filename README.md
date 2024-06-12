@@ -17,3 +17,7 @@ To get started with the Garbage Collection System, follow these steps:
 - Add the environment variables for MongoDB.
 - Start the backend by running npm start.
 - Start the frontend by running npm start.
+
+<p align="center">
+  <img src="https://github.com/Shashinidh/Garbage_collection_system/assets/137942411/e7c0c53b-934c-4802-b1da-4a44d9a86f5f" alt="Image 1">
+</p>
