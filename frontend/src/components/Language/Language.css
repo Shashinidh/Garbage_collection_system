@@ -1,0 +1,52 @@
+.language-container {
+    text-align: center;
+    display: flex;
+    flex-direction: column; 
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    background-image: url('../Poto/2.jpeg');
+    background-size: cover; 
+  }
+
+  .form{
+    background-image: url('../Poto/1.jpeg');
+    padding: 100px;
+    background-color: #ffffff;
+    border-radius: 10px; 
+    background-size: cover; 
+  }
+  
+  .language-title {
+    font-size: 24px;
+    margin-bottom: 20px;
+  }
+  
+  .button-container {
+    margin-bottom: 20px;
+  }
+  
+  .gray-button,
+  .light-green-button {
+    background-color: #dddddd;
+    color: #333333;
+    border: none;
+    padding: 10px 20px;
+    margin: 5px;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .gray-button:hover {
+    background-color: #cccccc;
+  }
+  
+  .light-green-button {
+    background-color: #b3ffb3;
+  }
+  
+  .light-green-button:hover {
+    background-color: #99ff99;
+  }
+  

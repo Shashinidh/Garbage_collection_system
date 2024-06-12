@@ -1,0 +1,63 @@
+/* styles.css */
+
+/* Reset or Normalize */
+@import url('normalize.css');
+
+/* Global styles */
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f8f8f8;
+  color: #333;
+}
+
+.container {
+  max-width: 960px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+/* Header styles */
+.header {
+  background-color: #007bff;
+  color: #fff;
+  padding: 10px 0;
+  text-align: center;
+}
+
+/* Form styles */
+.form-group {
+  margin-bottom: 20px;
+}
+
+.form-label {
+  font-weight: bold;
+}
+
+.form-input {
+  width: 100%;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+/* Button styles */
+.button {
+  background-color: #007bff;
+  color: #fff;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.button:hover {
+  background-color: #0056b3;
+}
+
+/* Responsive styles */
+@media screen and (max-width: 768px) {
+  .container {
+    padding: 10px;
+  }
+}

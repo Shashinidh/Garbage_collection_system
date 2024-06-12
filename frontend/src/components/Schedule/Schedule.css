@@ -1,0 +1,32 @@
+.schedule-container {
+    margin: 20px;
+  }
+  
+  .calendar-section {
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .calendar {
+    flex: 1;
+    border: 1px solid #ccc;
+    padding: 20px;
+  }
+  
+  .calendar h2 {
+    margin-bottom: 10px;
+  }
+  
+  .time-section {
+    margin-top: 20px;
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .pickup-time,
+  .return-time {
+    flex: 1;
+    border: 1px solid #ccc;
+    padding: 20px;
+  }
+  
